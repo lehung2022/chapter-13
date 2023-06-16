@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Shang Tsung"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Raiden"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Kung Lao"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Fire God Kang Liu"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Johnny Cage"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "Kuai Liang"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Hasashi Hanzo"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "Kenshi"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "Sekiro"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "Ashina Isshin"
+    },
+    {
+      "id": 11,
+      "checked": false,
+      "item": "Ashina Genichiro"
+    },
+    {
+      "id": 12,
+      "checked": false,
+      "item": "Sekijo"
+    }
+  ]
+}
