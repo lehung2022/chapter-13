@@ -14,4 +14,4 @@ const SearchItem = ({ search, setSearch }) => {
   )
 }
 
-export default SearchItem
+export default SearchItem;

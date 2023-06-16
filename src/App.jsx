@@ -14,8 +14,8 @@ function App() {
   const API_URL = 'http://localhost:3500/items';
 
   const [items, setItems] = useState([]);
-  const [newItem, setNewItem] = useState('')
-  const [search, setSearch] = useState('')
+  const [newItem, setNewItem] = useState('');
+  const [search, setSearch] = useState('');
   const [fetchError, setFetchError] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
 
@@ -129,4 +129,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

@@ -16,4 +16,4 @@ const Content = ({ items, handleCheck, handleDelete }) => {
   )
 }
 
-export default Content
+export default Content;

@@ -28,4 +28,4 @@ const AddItem = ({ newItem, setNewItem, handleSubmit }) => {
     )
 }
 
-export default AddItem
+export default AddItem;
